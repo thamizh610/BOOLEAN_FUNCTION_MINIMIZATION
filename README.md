@@ -38,8 +38,6 @@ Hardware – PCs, Cyclone II , USB flasher
 Developed by:THAMIZARASAN.S
 RegisterNumber:212223220116 */
 ```
-
-
 module combinationalcircuit(A,B,C,D,F1);
 input A,B,C,D;
 output F1;
@@ -72,8 +70,6 @@ endmodule
 
 
 **Result:**
-
-Thus the given logic functions are implemented using and their operations are verified using Verilog programming.
 
 Thus the given logic functions are implemented using and their operations are verified using Verilog programming.
 
